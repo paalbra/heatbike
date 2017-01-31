@@ -1,0 +1,8 @@
+{
+  "name": "heatbike",
+  "dependencies": {
+    "heatmap.js-amd": "^2.0.5",
+    "jquery": "^3.1.1",
+    "leaflet": "^1.0.3"
+  }
+}
